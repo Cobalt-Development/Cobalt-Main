@@ -4,11 +4,11 @@
 - 💻 CSS, HTML, Batch, Visual Basic, Lua.
 - 🏴‍☠️ I'm from Russia.                                                         
 
-  💊Socials:                                                          
+💊Socials:                                                          
 - 📌 https://t.me/Cobalt_Development | Telegram
 - 📌 cobalt_developer | Discord
 
-  🛒Crypto:                      
+🛒Crypto:                      
 - 🔰 USDT(TRC20): TDJ3jLocrq6VBKGLXuaEjkJmyXAhQGRBwy
 - 🔰 BTC: bc1qgsfx93yukx0hg9chffrvth0qhmfrenhp6gjcea
 - 🔰 TRX(TRC20):  TDJ3jLocrq6VBKGLXuaEjkJmyXAhQGRBwy
