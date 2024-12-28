@@ -1,4 +1,4 @@
-  🚀About:                                        
+🚀About:                                        
 - 👋 Hi, my name is Ilya!                                                     
 - 💻 I'm learning C#, Python, JavaScript,
 - 💻 CSS, HTML, Batch, Visual Basic, Lua.
